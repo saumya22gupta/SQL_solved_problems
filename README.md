@@ -1,2 +1,8 @@
-# SQL_solved_problems
-This is a repository that I have created to showcase skills, share projects and track my progress of SQL related topics in the Data Analytics / Data Science domain.
+# SQL Topics Covered
+SELECT/SELECT DISTINCT, ALIAS
+Filtering: WHERE, AND, OR, NOT, HAVING, BETWEEN, IN, LIKE, Wildcards, ANY, ALL
+Grouping: GROUP BY
+Sorting: ORDER BY
+Modifying Tables: CREATE TABLE, INSERT INTO, UPDATE, DELETE
+Aggregations: MAX, MIN, AVG, SUM, COUNT, COUNT DISTINCT
+Joining: INNER JOIN, SELF JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, UNION
